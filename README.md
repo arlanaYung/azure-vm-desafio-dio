@@ -29,8 +29,8 @@ Este repositório contém a documentação do desafio proposto no bootcamp **Clo
 - Acesso ao portal: [https://portal.azure.com](https://portal.azure.com)
 
 ### 2. Criação do Grupo de Recursos
-- Nome: `meu-grupo-vm`
-- Região: `Brazil South`
+- Nome: `meu-azure-vm`
+- Região: Brasil
 
 ### 3. Criação da Máquina Virtual
 - Nome: `minha-vm-linux`
@@ -92,4 +92,4 @@ As imagens utilizadas para ilustrar o processo estão na pasta `/images`.
 
 ## 🚀 Autor
 
-Desenvolvido por **[Seu Nome Aqui]** – participante do bootcamp DIO + XP Inc.
+Desenvolvido por Arlana Yung – participante do bootcamp DIO + XP Inc.
