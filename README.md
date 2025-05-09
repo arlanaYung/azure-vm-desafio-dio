@@ -29,11 +29,11 @@ Este repositório contém a documentação do desafio proposto no bootcamp **Clo
 - Acesso ao portal: [https://portal.azure.com](https://portal.azure.com)
 
 ### 2. Criação do Grupo de Recursos
-- Nome: `meu-azure-vm`
+- Nome: Meu azure
 - Região: Brasil
 
 ### 3. Criação da Máquina Virtual
-- Nome: `minha-vm-linux`
+- Nome: Máquina Virtual Azure
 - SO: Ubuntu 20.04 LTS (ou Windows Server 2022)
 - Tamanho: B1s
 - Autenticação: Chave SSH (Linux) ou Senha (Windows)
